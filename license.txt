@@ -1,0 +1,11 @@
+Model Information:
+* title:	PANHARD FBX 2021
+* source:	https://sketchfab.com/3d-models/panhard-fbx-2021-b835580ea186434b85c64228613aed3f
+* author:	Jan Vančík (https://sketchfab.com/janvancik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PANHARD FBX 2021" (https://sketchfab.com/3d-models/panhard-fbx-2021-b835580ea186434b85c64228613aed3f) by Jan Vančík (https://sketchfab.com/janvancik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
